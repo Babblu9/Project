@@ -1,2 +1,3 @@
-# Project
-Online farmers market 
+$ sudo port install git
+
+
